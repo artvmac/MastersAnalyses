@@ -1,4 +1,4 @@
-# Master's Analyses
+# Master's Analysis
 
 Code used in Machado et al. (2020): https://doi.org/10.1371/journal.pone.0228661.
 
