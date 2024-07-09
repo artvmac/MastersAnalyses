@@ -1,4 +1,4 @@
-# Master's Analysis
+# Bayesian correlation and regression between PTSD symptoms and coping strategies
 
 Code used in Machado et al. (2020): https://doi.org/10.1371/journal.pone.0228661.
 
