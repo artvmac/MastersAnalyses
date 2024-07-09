@@ -4,7 +4,7 @@
 
 # load file
 
-df <- read.csv(file = "S1_File")
+df <- read.csv(file = "S1_File.csv")
 
 # install and load packages
 
@@ -12,19 +12,18 @@ df <- read.csv(file = "S1_File")
 # installing bayesian first aid
 # https://sourceforge.net/projects/mcmc-jags/
 
-install.packages("tidyverse")
-install.packages("lsr")
-install.packages("moments")
-install.packages("devtools")
-devtools::install_github("rasmusab/bayesian_first_aid")
-install.packages("caret")
-install.packages("BayesFactor")
-install.packages("bayestestR")
-install.packages("insight")
-install.packages("see")
-install.packages("rcpp")
-install.packages("rstanarm")
-
+# install.packages("tidyverse")
+# install.packages("lsr")
+# install.packages("moments")
+# install.packages("devtools")
+# devtools::install_github("rasmusab/bayesian_first_aid")
+# install.packages("caret")
+# install.packages("BayesFactor")
+# install.packages("bayestestR")
+# install.packages("insight")
+# install.packages("see")
+# install.packages("rcpp")
+# install.packages("rstanarm")
 
 library(tidyverse)
 library(lsr)
